@@ -1,4 +1,4 @@
-## Hi!, I'm Rafael Piccolo
+## Hi, I'm Rafael Piccolo!
 <div>
   <a href="https://github.com/RafaelvPiccolo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelvPiccolo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=prs,contribs"/>
