@@ -1,11 +1,15 @@
-## Hi, I'm Rafael Piccolo!
+## Olá, eu sou o Rafael Piccolo!
+
+Sou um Engenheiro de Software React Native, com conhecimentos também em Android e .Net.
+
 <div>
   <a href="https://github.com/RafaelvPiccolo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelvPiccolo&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=prs,contribs"/>
+  
 <div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Java" height="50" width="50" src="https://user-images.githubusercontent.com/74803340/114797531-c4929600-9d69-11eb-8375-e4338e7bfbfc.png">
-  <img align="center" alt="Rafa-Kotlin" height="50" width="50" src="https://user-images.githubusercontent.com/74803340/114798242-4800b700-9d6b-11eb-97e6-0a2762a7cf0d.png">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
   
